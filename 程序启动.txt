@@ -1,0 +1,4 @@
+cd /home/jinhl/data/myDjangoSpider
+nohup python3 manage.py crontab run a5d28c7133c9899c4958ea16ac742624 > /dev/null 2>&1 &
+nohup python3 manage.py crontab run d1c34a928cbdef259c32fb13add12146 > /dev/null 2>&1 &
+nohup python3 manage.py crontab run 04c8caf9ee79e99f8d256795089f2152 > /dev/null 2>&1 &
